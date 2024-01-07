@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning about [.Net Aspire](https://github.com/dotnet/aspire)
 - 💬 Ask me about .Net, C#, Microservice Architectures.
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love to play and watch Futbol, . I have been a coordinator of SMV Adult Soccer club since mid 2010's.
+- ⚡ Fun fact: I love to play and watch Futbol, . I have been a coordinator of [SMV Football Club](https://www.facebook.com/SMVFC/) since mid 2010's.
 - 📫 How to reach me: [@romanrozinov](https://twitter.com/romanrozinov)   
 <!-- - 🔭 I’m currently workin 
 - 👯 I’m looking to collaborate on [.Net Aspire](https://github.com/dotnet/aspire)
