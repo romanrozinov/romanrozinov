@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hi there, I am Roman Rozinov.
 
-<!--
-**romanrozinov/romanrozinov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Roman Rozinov** is currently a *Director of Engineering at Lighthouse Global*.  He focuses on Lighthouse Spectra Platform product line. 
+<br>If you want to learn more about it, please head over [here](https://www.lighthouseglobal.com/spectra).
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+## Fun Facts
+- 🌱 I’m currently learning about [.Net Aspire](https://github.com/dotnet/aspire)
+- 💬 Ask me about .Net, C#, Microservice Architectures.
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I love to play and watch Futbol, . I have been a coordinator of SMV Adult Soccer club since mid 2010's.
+- 📫 How to reach me: [@romanrozinov](https://twitter.com/romanrozinov)   
+<!-- - 🔭 I’m currently workin 
+- 👯 I’m looking to collaborate on [.Net Aspire](https://github.com/dotnet/aspire)
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
+
 -->
